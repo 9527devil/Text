@@ -13,5 +13,7 @@ public class LoginActivity extends AppCompatActivity {
         setContentView(R.layout.activity_login);
 
         //我叫王维0515
+
+        //我叫张兴斌
     }
 }
