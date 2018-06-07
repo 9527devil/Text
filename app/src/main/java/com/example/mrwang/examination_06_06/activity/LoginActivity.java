@@ -12,11 +12,14 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
+        //tiantian
         //化骨绵掌
         //我叫王维0515
 
         //我叫张兴斌
         //我叫胡彦斌
         //打死你git
+
+        //明白就好
     }
 }
